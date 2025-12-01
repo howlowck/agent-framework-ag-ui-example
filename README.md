@@ -2,6 +2,11 @@
 
 This Aspire application uses Microsoft Agent Framework (with Next Gen Foundry) and Ag-UI frontend.
 
+## Features
+* Demonstrating Microsoft Foundry (next gen) Agents with Tracing with Microsoft Agent Framework
+* Demonstrating AG-UI and how it works with `AzureAIClient` on Microsoft Agent Framework
+* Demonstrating Aspire 13 capabilities with Python and Typescript integration
+
 ## Prerequisite
 1. Install [Aspire CLI](https://learn.microsoft.com/en-us/dotnet/aspire/cli/install)
 2. Install [uv](https://docs.astral.sh/uv/)
